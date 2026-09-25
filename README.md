@@ -1,3 +1,6 @@
+# Why my fork?
+Some improvements with the bookmarklet.
+
 # Duck.ai Tools
 
 Duck.ai is a private conversation feature of DuckDuckGo that lets you chat with various AI models. Conversations are anonymized and your chat history stays local.
